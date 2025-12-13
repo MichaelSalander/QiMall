@@ -1,6 +1,6 @@
-﻿# Co-Share System (消費股東系統)
+﻿# QiMall 管理系統
 
-> **WordPress 多制度組消費股東與合夥人管理外掛**  
+> **WooCommerce 客戶管理系統 - 獨立後台解決方案**  
 > 版本: 1.0-dev | 最後更新: 2025-12-02
 
 [![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue.svg)](https://wordpress.org/)
@@ -67,7 +67,7 @@
 
 1. **啟用外掛**
    ```
-   WordPress 後台 → 外掛 → 啟用 "Co-Share System"
+   WordPress 後台 → 外掛 → 啟用 "QiMall System"
    ```
 
 2. **一鍵生成測試資料**
@@ -309,7 +309,7 @@ A: 訂單完成時獎勵為 `pending` 狀態，月結算時轉為 `available` �
 
 ## 📝 授權與版權
 
-Co-Share System  
+QiMall System  
 Copyright © 2024-2025  
 WordPress Plugin
 
@@ -327,4 +327,5 @@ WordPress Plugin
 **📦 版本**: 1.0-dev  
 **👨‍💻 狀態**: 開發中 (90% 完成)  
 **🔄 最後更新**: 2025-12-02
+
 
