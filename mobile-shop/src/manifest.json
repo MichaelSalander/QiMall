@@ -1,0 +1,1 @@
+{"name":"日常選物","appid":"","description":"幸福會員與幸福VIP積分選物商城","versionName":"1.0.0","versionCode":"100","transformPx":false,"app-plus":{"usingComponents":true,"distribute":{"android":{"permissions":[]},"ios":{}}},"h5":{"title":"日常選物｜幸福會員商城","router":{"mode":"hash"}},"mp-weixin":{"appid":"","usingComponents":true},"uniStatistics":{"enable":false},"vueVersion":"3"}
